@@ -1,1 +1,1 @@
-this just data from previous post. you can edit it again idk. build it cleanly and you got .dll , or you can download .dll only separately 
+this just data from previous post. all contribution is from caslex, etc. you can edit file again fi it change idk. and then just build it cleanly and you got .dll , or you can download .dll only separately from release page 
